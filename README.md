@@ -23,5 +23,8 @@ por nosotros asi como los objetos modelos por el desarrolador.
 
 ## Captura del programa
 
-![App Screenshot](https://i.imgur.com/yrAgona.png)
+<p align="center">
+   <img src="[https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png](https://i.imgur.com/yrAgona.png)">
+</p> 
+
 
