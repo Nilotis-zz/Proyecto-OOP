@@ -20,11 +20,6 @@ por nosotros asi como los objetos modelos por el desarrolador.
 
  - [Enlace a JavaDoc](http://nilotis.alwaysdata.net/)
 
-
 ## Captura del programa
 
-<p align="center">
-   <img src="[https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png](https://i.imgur.com/yrAgona.png)">
-</p> 
-
-
+![App Screenshot](https://i.imgur.com/yrAgona.png)
